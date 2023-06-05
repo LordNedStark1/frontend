@@ -1,0 +1,68 @@
+body{
+  background-image:url(../img/hands_up.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 96vh;
+}
+.button{
+    display: flex;
+    justify-content: end;
+}
+.first-div{
+    background-color: rgba(112, 112, 112, 0.5);
+}
+.second-div{
+    background-color: rgba(252, 205, 213, 0.4) ;
+}
+#evolve{
+  padding-top: 150px;
+  /*display: grid;*/
+  place-items: center;
+  margin-top: 10px;
+  font-size: 150px;
+  display: flex;
+  color: rgb(42, 65, 236);
+  }
+  .evolve_container{
+    place-items: center;
+    display: grid;
+  }
+  .evol_div{
+    display: flex;
+  }
+  .evol_image{
+    border-radius: 90px;
+    height: 205px;
+    width: 217px;
+  }
+button:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  button:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  button:hover {
+    color: red;
+    width: 90px;
+    height: 29px;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  button:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;  
+  }
+button{
+    border-radius: 5px;
+    width: 80px;
+    height: 27px; 
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 15px;
+    background-color: rgba(214, 211, 112, 0.6);
+}

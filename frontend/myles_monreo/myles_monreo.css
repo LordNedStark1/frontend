@@ -1,0 +1,65 @@
+body{
+   background-color: rgba(166, 155, 155, 0.3);
+}
+#myles_img{
+  padding-top: 3%;
+  height: 300px;
+  width: 300px;
+  
+}
+button:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  button:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  button:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  button:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  button{
+   height: 25px; 
+   width: 75px;
+   border-radius: 6px;
+   background-color: rgba(252, 252, 136, 0.4);
+  }
+  .head{
+    background: linear-gradient(135deg, rgb(194, 196, 240), rgb(169, 227, 254), rgb(238, 186, 194))
+    
+  }
+  #profile{
+    width: 30px;
+    height: 30px;
+   
+    margin-left: 89%;
+    
+    align-content: left;
+    border-right: 100px;
+}
+.case{
+  display: flex;
+  align-items: center;
+  padding: 55px;
+}
+.main_body{
+  margin-right: 74%;
+}
+
+
+
+
+
+
+
+
+  

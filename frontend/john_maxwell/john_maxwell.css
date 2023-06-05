@@ -1,0 +1,47 @@
+body{
+  background-color: rgba(236, 216, 104, 0.8);
+}
+#john_maxwell{
+  height: 305px;
+  width: 305px;
+}
+.head_div{
+    text-align: left ;
+    font-size: 34px;
+    background-color: rgba(197, 171, 171, 0.8);
+    border-right: 170px solid rgba(216, 82, 210,0.5);
+    /* padding: px; */
+    margin-top: 3px;
+    margin-bottom: 8px;
+    height: 178px;
+    
+}
+button:link {
+    color: green;
+    background-color: transparent;
+    text-decoration:wavy;
+  }
+  button:visited {
+    color: pink;
+    background-color: rgb(151, 223, 247);
+    text-decoration: none;
+  }
+  button:hover {
+    color: rgb(242, 66, 66);
+    background-color: rgba(116, 116, 216,0.4);
+    text-decoration: underline;
+  }
+  button:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  #profile{
+    width: 30px;
+    height: 30px;
+   
+    margin-left: 99%;
+    
+    align-content: left;
+    border-right: 100px;
+}

@@ -1,0 +1,57 @@
+#phone_nunmber{
+    color: rgb(40, 9, 198);
+}
+#profile{
+    width: 30px;
+    height: 30px;
+   
+    margin-left: 100%;
+    
+    align-content: left;
+    border-right: 100px;
+}
+#ent{
+    font-size: 20px; 
+    font-family: 'Gill Sans';
+}
+#c4{
+    font-size: 18px;
+}
+#hard_work{
+    text-align: center;
+    color: #000;
+    font-size: 23px;
+}
+#ol{
+    font-size: 20px;
+}
+#direction{
+    font-size: 23px;
+}
+body{
+    background-color: whitesmoke;
+}
+
+.John_Maxwell_Button{
+    margin: center;
+    height: 22px;
+}
+/* .semicolon_img{
+    width: 42px;
+    height: 55px;
+} */
+h1 {
+    text-align: left ;
+    background-color: lightgrey;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-right: 100px solid rgb(51, 73, 150);
+    position: relative;
+}
+h5 {
+position: relative;
+margin-bottom: 0;
+color: blue;
+font-weight: bold;
+}

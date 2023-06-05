@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(131, 131, 248);
+}
+.main_flex{
+    display: flex;
+
+}
+img{
+    border-radius: 65px;
+}
+ul{
+    font-size: 24px;
+    color: azure;
+    list-style: none;
+    padding-left: 130px;
+}
+.body_div{
+    
+    display: flex;
+}
