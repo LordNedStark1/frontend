@@ -1,0 +1,57 @@
+.body{  
+    min-height: 45%;
+    min-width: 44em;
+    background: linear-gradient(135deg, rgb(194, 196, 240), rgb(169, 227, 254), rgb(238, 186, 194))
+
+}
+h1{
+    font-size: 5em;
+}
+.main{
+    
+    padding-top: 150px;
+    display: grid;
+    place-items: center;
+    padding-bottom: 210px;
+    background: linear-gradient(135deg, rgb(194, 196, 240), rgb(169, 227, 254), rgb(238, 186, 194))
+}
+.response{
+    /* min-width: 49%; */
+    min-height: 7px;
+    /* padding-left: 50px;
+    margin-bottom: 15px;
+    font-size: 22px; */
+    /* border: solid rgb(76, 0, 255); */
+    }
+button{
+    min-height: 2em;
+    min-width: 5em;
+    font-size: 1.4em;
+    border-radius: 7px;
+    
+    background: linear-gradient(135deg, rgba(194, 96, 40, 0.5), rgb(169, 227, 254), rgba(183, 16, 94, 0.4))
+}
+button:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  button:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  button:hover {
+    color: rgb(231, 232, 228);
+    background: linear-gradient(135deg, rgb(194, 196, 40), rgb(16, 22, 254), rgb(238, 16, 194));
+    text-decoration: underline;
+  }
+input{
+   width: 259px;
+   height: 45px;
+   border-radius: 6px;
+   font-size: 23px;
+}
+.display_container{
+    padding-bottom: 25px;
+}
