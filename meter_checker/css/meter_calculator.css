@@ -1,0 +1,40 @@
+.meterDiv{
+    margin: auto;
+    height: 50px;
+    width: 600px;
+    background-color: aqua;
+    display: flex;
+
+}
+.first{
+    height: 50px;
+    width: 200px;
+    background-color: aqua;
+}
+.second{
+    height: 50px;
+    width: 200px;
+    background-color: aqua;
+}
+.third{
+    height: 50px;
+    width: 200px;
+    background-color: aqua;
+}
+.displayDiv{
+    height: 45px;
+    width: 45px;
+}
+.buttonDiv{
+    margin: 65px 0px 5px 529px;
+    height: 99px;
+    width: 400px;
+}
+button{
+    height: 60px;
+    width: 137px;
+    border-radius: 10px;
+    background-color: rgb(126, 126, 210);
+    color: beige;
+    font-size: 22px;
+}
